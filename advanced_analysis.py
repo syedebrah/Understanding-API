@@ -8,7 +8,7 @@ st.title("📊 Advanced Stock Analytics & Transformations")
 st.markdown("This dashboard fetches daily stock data and performs technical analysis and data transformations.")
 
 # API key
-API_KEY = "2M9U9NCP50GLP3J7"
+API_KEY = ".................."
 
 with st.sidebar:
     st.header("Settings")
